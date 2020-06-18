@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/grommet-picker/precache-manifest.041d661d31f6a4a2c589f0d1eedb3b78.js"
+  "/grommet-picker/precache-manifest.d8c7aa42acb4f293c02f11f0d19e0629.js"
 );
 
 self.addEventListener('message', (event) => {

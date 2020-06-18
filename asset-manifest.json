@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/grommet-picker/static/css/main.5f361e03.chunk.css",
-    "main.js": "/grommet-picker/static/js/main.e14f9d2c.chunk.js",
-    "main.js.map": "/grommet-picker/static/js/main.e14f9d2c.chunk.js.map",
+    "main.js": "/grommet-picker/static/js/main.26095d0e.chunk.js",
+    "main.js.map": "/grommet-picker/static/js/main.26095d0e.chunk.js.map",
     "runtime-main.js": "/grommet-picker/static/js/runtime-main.b263b199.js",
     "runtime-main.js.map": "/grommet-picker/static/js/runtime-main.b263b199.js.map",
-    "static/js/2.7030d5a0.chunk.js": "/grommet-picker/static/js/2.7030d5a0.chunk.js",
-    "static/js/2.7030d5a0.chunk.js.map": "/grommet-picker/static/js/2.7030d5a0.chunk.js.map",
+    "static/js/2.174be4ed.chunk.js": "/grommet-picker/static/js/2.174be4ed.chunk.js",
+    "static/js/2.174be4ed.chunk.js.map": "/grommet-picker/static/js/2.174be4ed.chunk.js.map",
     "index.html": "/grommet-picker/index.html",
-    "precache-manifest.041d661d31f6a4a2c589f0d1eedb3b78.js": "/grommet-picker/precache-manifest.041d661d31f6a4a2c589f0d1eedb3b78.js",
+    "precache-manifest.d8c7aa42acb4f293c02f11f0d19e0629.js": "/grommet-picker/precache-manifest.d8c7aa42acb4f293c02f11f0d19e0629.js",
     "service-worker.js": "/grommet-picker/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/grommet-picker/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.7030d5a0.chunk.js.LICENSE.txt": "/grommet-picker/static/js/2.7030d5a0.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/grommet-picker/static/media/logo.5d5d9eef.svg"
+    "static/js/2.174be4ed.chunk.js.LICENSE.txt": "/grommet-picker/static/js/2.174be4ed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b263b199.js",
-    "static/js/2.7030d5a0.chunk.js",
+    "static/js/2.174be4ed.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.e14f9d2c.chunk.js"
+    "static/js/main.26095d0e.chunk.js"
   ]
 }
