@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Calendar } from 'grommet';
+import { Calendar, TextInput } from 'grommet';
 
 export default class extends Component {
   state = {}
@@ -43,13 +43,25 @@ export default class extends Component {
 
   render() {
     const { date, dates } = this.state;
+    let dateString = '';
+    if (date){
+      const selectedDate = new Date(date);
+      dateString = selectedDate.toLocaleDateString("en-US");
+    }
+
     return (
+      <div>
+        <TextInput
+          placeholder="date"
+          value={dateString}
+        />
         <Calendar
           a11yTitle={"Calendar Date 1"}
           date={date}
           dates={dates}
-          onSelect={this.onSelectRange}
+          onSelect={this.onSelectSingle}
         />
+      </div>
     );
   }
 }
